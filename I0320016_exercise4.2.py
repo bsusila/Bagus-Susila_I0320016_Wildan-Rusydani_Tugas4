@@ -18,3 +18,5 @@ print('x != y is',x!=y)
 print('x >= y is',x>=y)
 
 # Output: x <= y is true
+print('x <= y is',x<=y)
+
